@@ -1,0 +1,235 @@
+.teklfi
+{
+	width:500px;
+}
+
+
+.genel
+{
+	margin:65px;
+}
+a:hover:after,
+a:focus:after {
+    width: 100%;
+}
+a:after {
+    display: block;
+    content: "";
+    height: 2px;
+    width: 0%;
+    background-color:black;
+    transition: width .3s ease-in-out;
+}
+a {
+    line-height: 1;
+    display: inline-block;
+    color:blue;
+    text-decoration:none;
+}
+
+
+
+#menupp:hover:after,
+#menupp:focus:after {
+    width: 100%;
+}
+#menupp:after {
+    display: block;
+    content: "";
+    height: 2px;
+    width: 0%;
+    background-color:white;
+    transition: width .3s ease-in-out;
+}
+#menupp {
+    line-height: 1;
+    display: inline-block;
+    color:white;
+    text-decoration:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#aw-zoom
+{
+    position: relative;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    -moz-transform: scale(1);
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+}
+
+#aw-zoom:hover
+{
+    z-index:2;
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);  
+    -moz-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+
+
+
+#menuazow
+{
+    position: relative;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    -moz-transform: scale(1);
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+}
+
+#menuazow:hover
+{
+    z-index:2;
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);  
+    -moz-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+#OkulTelevizyonu{
+
+		background-color:#EEEEEE;
+}
+
+#bosluk
+{
+	height:147px;
+}
+#ÜRÜNLERİMİZ
+{
+	background-color:#EEEEEE;
+}
+
+
+#HAKKIMIZDA
+{
+	background-color:#EEEEEE;
+}
+
+#HİZMETLERİMİZ
+{
+	background-color:#EEEEEE;
+}
+
+#KodemisDemirbaş
+{
+			background-color:#EEEEEE;
+}
+
+
+
+.navbar-nav ul {
+    list-style-type: none;
+}
+
+.navbar-nav li {
+	background-color:blue;
+    display:inline-block;
+}
+
+.navbar-nav li a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+p{
+	padding:10px;
+}
+
+
+ .ilkbolge {
+    background: #ccc;
+}
+.icerik {
+    color:white;
+}
+
+.yukarikaydir {
+	color:black;
+    text-decoration:none;
+	font-size:50px; 
+}
+a:hover {
+ color:primary;
+}
+.teklf
+{
+	font-szie:15px;
+	text-decoration:none;
+}
+
+
+
+#doselogo
+{
+	width:200px;
+	height:55px;
+}
+
+
+
+#arkpalnmenu
+{
+	background-color:blue;
+}
+
+
+.link1
+{
+	color:black;
+}
+#arkplan
+{
+	background-color:#EEEEEE;
+}
+#menuac{
+	background-color:#EEEEEE;
+}
+nav span
+{
+	margin-right:20px;
+}
+footer{
+	background-color:#EEEEEE;
+}
+
+
+img
+{
+	width:200px;
+	height:130px;
+}
+
+
+
+	#görsel2
+	{
+		padding:5px;
+		width:100%;
+		height:100%;
+	}
+	
+	#bilgiler
+	{
+		color:black;
+		background-color:#E0E0E0;
+	}
